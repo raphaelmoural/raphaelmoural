@@ -1,4 +1,4 @@
-## Olá 👋
+## Olá <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="width:26px" alt="👋">
 
 - 📚 Estudando HTML, CSS e JS
 <div name="linguagens">
